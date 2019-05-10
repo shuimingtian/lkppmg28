@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"401","android_url":"http://app.jinhealthcare.org/lianzhong/lz_401a.apk","other":",1,aHR0cDovL2FwcC5reWd0ZXN0LmNvbToxODgw","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"401","android_url":"http://app.jinhealthcare.org/lianzhong/lz_401a.apk","other":",1,aHR0cDovL2FwcC5reWd0ZXN0LmNvbToxODgwLGh0dHA6Ly8xOTIuMTY4LjEuMTcy","thirdLoginEnable":"0"}]}}
