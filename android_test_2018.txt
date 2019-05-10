@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"130","android_url":"http:\/\/app.zgtzqcw.com\/7c_130.apk","other":",1,aHR0cDovL2FwcC5xaWNhaTc3NzAuY29tOjk5MDYsaHR0cDovLzE5Mi4xNjguMS4xODg6OTkwNixodHRwOi8vd3d3LmJhaWR1LmNvbSxodHRwOi8vYXBwLnFpY2FpdGVzdDIwMTkuY29tOjk5MDU=","thirdLoginEnable":"0"}]}}
