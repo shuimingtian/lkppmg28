@@ -1,2 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"411","android_url":"http://app.jinhealthcare.org/lianzhong/lz_411.apk","other":",0,aHR0cHM6Ly9keGFwcC5sejI4dmlwLmNvbTo4NjAwLGh0dHBzOi8vZHhhcHAuemhlbmdodWFpYmluLnRvcCxodHRwczovL2x2aGFwcC5sejI4dmlwLmNvbSxodHRwczovL2R3YXBwLmx6Mjh2aXAuY29t","thirdLoginEnable":"0"}]}}
-
+{"root":{"code":"1","message":"ok","result":[{"android_version":"411","android_url":"http://app.liangsanguache.com/lianzhong/lz_411.apk","other":",0,aHR0cHM6Ly9keGFwcC56aGVuZ2h1YWliaW4udG9wLGh0dHBzOi8vaHphcHAubHoyOHZpcC5jb206OTk4NixodHRwczovL2R3YXBwLmx6Mjh2aXAuY29tLGh0dHBzOi8vZHdhcHAubHoyOHZpcC5jb20=","thirdLoginEnable":"0"}]}}
